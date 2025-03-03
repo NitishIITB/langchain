@@ -5,12 +5,16 @@ name = "pypi"
 
 [packages]
 langchain = "*"
+requests = "*"
+black = "*"
 langchain-openai = "*"
 langchain-community = "*"
 langchainhub = "*"
-black = "*"
-python-dotenv = "*"
 langchain-ollama = "*"
+google-generativeai = "*"
+langchain-google-genai = "*"
+python-dotenv = "*"
+langsmith = "*"
 
 [dev-packages]
 
